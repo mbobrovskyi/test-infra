@@ -1,0 +1,14 @@
+config/jobs/kubernetes-sigs/kueue/kueue-periodics-main.yaml
+  h_47cee5fa694435 1853-1856
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b5d2bdd288474b6741c10a799bc921ff95a4d75f",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
