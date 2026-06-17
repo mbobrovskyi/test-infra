@@ -1,0 +1,14 @@
+config/jobs/image-pushing/k8s-staging-kueue.yaml
+  h_47cee5fa694435 7-8,29,38-39,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "67a6971214ba1616b67433cc4fc68343cf4e854b",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
