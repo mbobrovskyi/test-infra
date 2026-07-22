@@ -1,0 +1,14 @@
+config/prow/plugins.yaml
+  h_47cee5fa694435 533-534
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c02d41edca150c64b7bcb3a0ec12567818f42725",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
