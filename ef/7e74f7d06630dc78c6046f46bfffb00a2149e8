@@ -1,0 +1,16 @@
+config/jobs/kubernetes-sigs/kueue/kueue-periodics-s390x-ppc64le-release-0.19.yaml
+  h_47cee5fa694435 1-48
+config/jobs/kubernetes-sigs/kueue/kueue-periodics-s390x-ppc64le-release-0.18.yaml
+  h_47cee5fa694435 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ef7e74f7d06630dc78c6046f46bfffb00a2149e8",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
