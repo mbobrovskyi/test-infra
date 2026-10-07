@@ -1,0 +1,20 @@
+config/prow/plugins.yaml
+  s_1e93d025d4630b::t_f04a9fb03f80be 754
+  s_1e93d025d4630b::t_92d5535a2846c1 753,755-758
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ab36a53cc645c0a14a0d82933a49da5f82cfc8f",
+  "prompts": {},
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
