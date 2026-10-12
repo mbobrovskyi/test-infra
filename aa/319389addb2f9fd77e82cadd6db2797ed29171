@@ -1,0 +1,14 @@
+config/prow/plugins/kubernetes-sigs/kueue/OWNERS
+  h_47cee5fa694435 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aa319389addb2f9fd77e82cadd6db2797ed29171",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
