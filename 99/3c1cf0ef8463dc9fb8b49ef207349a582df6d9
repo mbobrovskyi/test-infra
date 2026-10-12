@@ -1,0 +1,34 @@
+config/prow/plugins/kubernetes-sigs/kueue/kueue_pluginconfig.yaml
+  s_1e93d025d4630b::t_7ceb8ea54fcdfb 1-16
+config/jobs/kubernetes/test-infra/test-infra-presubmits.yaml
+  s_1e93d025d4630b::t_0fdd0ac5787cc3 35
+  s_1e93d025d4630b::t_544441e999145d 45
+config/prow/plugins/kubernetes-sigs/kueue/OWNERS
+  s_1e93d025d4630b::t_cb616017279e4c 1-14
+config/jobs/kubernetes/test-infra/test-infra-checkconfig.yaml
+  s_1e93d025d4630b::t_83349d253d1c02 22
+config/prow/plugins.yaml
+  s_1e93d025d4630b::t_92d5535a2846c1 770-772
+  s_1e93d025d4630b::t_b19594c500aac8 768-769
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "993c1cf0ef8463dc9fb8b49ef207349a582df6d9",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
