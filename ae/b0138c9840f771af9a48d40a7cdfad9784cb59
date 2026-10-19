@@ -1,0 +1,19 @@
+config/jobs/kubernetes/sig-k8s-infra/trusted/sig-contribex-k8s-triage-robot.yaml
+  s_b95265ef89efba::t_ac046e43d7633a 260,427-611,708,847
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aeb0138c9840f771af9a48d40a7cdfad9784cb59",
+  "prompts": {},
+  "sessions": {
+    "s_b95265ef89efba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfe53702-09cc-467a-a6c1-17fe7398d75f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
