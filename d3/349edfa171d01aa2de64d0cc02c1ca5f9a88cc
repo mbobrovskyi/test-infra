@@ -1,0 +1,21 @@
+config/tests/lint/supplemental_plugins_test.go
+  s_1e93d025d4630b::t_79de5e67c4c825 1-199
+config/prow/plugins.yaml
+  s_1e93d025d4630b::t_2f53550c1edd8f 768
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d3349edfa171d01aa2de64d0cc02c1ca5f9a88cc",
+  "prompts": {},
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
