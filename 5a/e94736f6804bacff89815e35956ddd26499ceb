@@ -1,0 +1,14 @@
+config/tests/lint/supplemental_plugins_test.go
+  h_47cee5fa694435 53-54,56-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ae94736f6804bacff89815e35956ddd26499ceb",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
