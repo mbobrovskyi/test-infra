@@ -1,0 +1,18 @@
+config/prow/plugins.yaml
+  h_47cee5fa694435 753
+config/prow/plugins/kubernetes-sigs/kueue/OWNERS
+  h_47cee5fa694435 8
+config/tests/lint/supplemental_plugins_test.go
+  h_47cee5fa694435 20,29-35,42-110,112-133,135,138-139,141-142,145,148,150,153-154,156-161,163-185,187-197,200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "540232002a81d906f46d25b022e522bf653faf40",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
