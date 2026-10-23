@@ -1,0 +1,55 @@
+config/jobs/kubernetes/test-infra/test-infra-presubmits.yaml
+  s_1e93d025d4630b::t_544441e999145d 45
+  s_1e93d025d4630b::t_0a25d210276760 58
+  s_1e93d025d4630b::t_0fdd0ac5787cc3 35
+config/jobs/kubernetes/test-infra/test-infra-checkconfig.yaml
+  s_1e93d025d4630b::t_82f06eb6db73cc 35
+  s_1e93d025d4630b::t_83349d253d1c02 22
+config/prow/plugins/kubernetes-sigs/kueue/OWNERS
+  s_1e93d025d4630b::t_cb616017279e4c 1,4-9,11-15
+  h_47cee5fa694435 16
+  s_1e93d025d4630b::t_dd8fdc92b5db68 10
+  s_1e93d025d4630b::t_ba9ff80482e9d6 2-3
+config/prow/plugins.yaml
+  s_1e93d025d4630b::t_92d5535a2846c1 773-775
+  s_1e93d025d4630b::t_b19594c500aac8 772
+  s_1e93d025d4630b::t_dd8fdc92b5db68 771
+config/tests/lint/supplemental_plugins_test.go
+  s_1e93d025d4630b::t_2bbc6c41aee6b0 2
+  s_1e93d025d4630b::t_2ba98e206cd79f 37-41,146,149-150,152,154-155,158,195
+  s_1e93d025d4630b::t_79de5e67c4c825 1,3-19,21-25,27-29,42,122,137,139-140,143,147,165,183,196,198
+  s_1e93d025d4630b::t_912f11faf6b3d7 20,45,47,49,51-54,56-57,59,61,63,65,67,69,71,77,79,81,83,85,92,100-101,104-122,126,129-130
+  s_1e93d025d4630b::t_36f0919264eee7 50,55,58,62,66,70,78,82,86,93,102-103
+  s_1e93d025d4630b::t_3cdd3bae5120cf 30-36,43-44,46,48,133-166,170,171-176,178-188,191-192,195-198
+  s_1e93d025d4630b::t_c87ec793ffac16 193-194,199,207-208,210-212,217
+  s_1e93d025d4630b::t_983ce221233ebb 219
+  s_1e93d025d4630b::t_b0664b3a2b8548 167-169
+  s_1e93d025d4630b::t_5989c2a6410d15 200-206,209,213-216,218
+  s_1e93d025d4630b::t_cec9211defac3c 26,60,64,68,80,84,88-91,96-99,123-125,127-128
+  s_1e93d025d4630b::t_354072a3419476 87,94-95
+  s_1e93d025d4630b::t_7e85b360fa35ee 72-75
+  s_1e93d025d4630b::t_e6747d85422363 76
+  s_1e93d025d4630b::t_e3572d4c7fba77 177
+  s_1e93d025d4630b::t_3d84e08e63d55c 189-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "39dcf8be3062c5d1f7591c6bcd05f1cdbf8bede7",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
