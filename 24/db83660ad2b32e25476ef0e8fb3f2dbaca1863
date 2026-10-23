@@ -1,0 +1,14 @@
+config/tests/plugins/supplemental_plugins_test.go
+  h_47cee5fa694435 1-221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "24db83660ad2b32e25476ef0e8fb3f2dbaca1863",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
