@@ -1,0 +1,26 @@
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-main.yaml
+  s_a3f4e610da91d1::t_45fd6fec702e76 2351
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-release-0-20.yaml
+  s_a3f4e610da91d1::t_45fd6fec702e76 2120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "31c88300273afa925fb8a84a7c43f5caf729db94",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_a3f4e610da91d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "690952ca-8f5d-4631-a07b-b5073c0885ce",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
