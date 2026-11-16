@@ -1,0 +1,25 @@
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-main.yaml
+  s_dc2a7d1d5e880d::t_333265d91f316f 2364
+  s_dc2a7d1d5e880d::t_9d86d708bbdae2 2352-2353
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-release-0-19.yaml
+  s_dc2a7d1d5e880d::t_9d86d708bbdae2 2052-2053
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-release-0-20.yaml
+  s_dc2a7d1d5e880d::t_9d86d708bbdae2 2121-2122
+  s_dc2a7d1d5e880d::t_333265d91f316f 2133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "11c8764e745067de1feeddd1aa4eac9cb050fc43",
+  "prompts": {},
+  "sessions": {
+    "s_dc2a7d1d5e880d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cad5d710-dc8e-49e7-b774-b97d3e09b63f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
